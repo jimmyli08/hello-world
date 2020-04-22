@@ -1,7 +1,7 @@
 # hello-world
 Just another repository
 
-** I made some change **
+**I made some change**
 
 - [ ] change1
 - [x] change2
